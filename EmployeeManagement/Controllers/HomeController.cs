@@ -9,7 +9,7 @@ namespace EmployeeManagement.Controllers
     {
         public string Index()
         {
-            return "Hello From MVC";
+            return "Hello MVC";
         }
 
     }
